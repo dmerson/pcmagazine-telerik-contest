@@ -1,0 +1,1 @@
+These are the solutions as they were submitted by the contestants.
