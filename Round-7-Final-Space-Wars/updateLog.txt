@@ -1,6 +1,9 @@
 ﻿
 THE TOP LOG MESSAGE IS THE NEWEST!!!
 
+[Joro] Added 1526-Engine-Algorithm-and-Sample.zip
+       fixed a bug that still asks algorithm for input even if that algorithm's ship has been killed
+
 [Joro] Added 1412-Engine-Algorithm-and-Sample
        fixed empty cell to be ' ', not '-'
 
