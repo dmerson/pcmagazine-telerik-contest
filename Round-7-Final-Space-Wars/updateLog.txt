@@ -1,6 +1,10 @@
 ﻿
 THE TOP LOG MESSAGE IS THE NEWEST!!!
 
+[Joro] Added 1950-Engine-2Algorithms-MatrixGenerator-and-Sample.zip
+       Added a matrix generator and made the engine load the asteroids from a file
+       Added another sample algorithm
+
 [Joro] Added 1612-Engine-Algorithm-and-Sample.zip
        fixed another bug that reads input files if they exist, even if algorithm's ship is dead
 
