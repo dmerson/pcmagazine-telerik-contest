@@ -1,0 +1,28 @@
+﻿
+THE TOP LOG MESSAGE IS THE NEWEST!!!
+
+[Joro] Added 1209-Engine-Algorithm-and-Sample.zip
+       Changed visualization of battleship:
+               ► is now r
+               ◄ is now l
+               ▲ is now u
+               ▼ is now d
+
+[Joro] Added 1157-Engine-Algorithm-and-Sample.zip
+       fixed fire missile command string
+
+[Joro] Added latest version of sample and engine code
+       - fixed a bug where the game wouldn't quit
+
+[Joro] Added SpaceWarsDumbAlgorithm.zip - the source of a dumb example algorithm
+
+[Joro] Added new engine SpaceWarsEngineVS2010.zip
+
+[Joro] Deleted old engines
+
+[Joro] Added SpaceWarsSampleEngineWithTwoAlgorithms.zip
+       - just replace the algorithm folders with your own and edit the settings file
+
+[Joro] Added SpaceWarsEngineVS2010.rar for compatibility with Visual Studio 2010
+
+[Joro] Added SpaceWarsEngine.rar in Final folder
