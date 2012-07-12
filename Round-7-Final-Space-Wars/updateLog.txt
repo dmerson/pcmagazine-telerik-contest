@@ -1,6 +1,9 @@
 ﻿
 THE TOP LOG MESSAGE IS THE NEWEST!!!
 
+[Joro] Added 1612-Engine-Algorithm-and-Sample.zip
+       fixed another bug that reads input files if they exist, even if algorithm's ship is dead
+
 [Joro] Added 1526-Engine-Algorithm-and-Sample.zip
        fixed a bug that still asks algorithm for input even if that algorithm's ship has been killed
 
