@@ -1,6 +1,9 @@
 ﻿
 THE TOP LOG MESSAGE IS THE NEWEST!!!
 
+[Joro] Added 1412-Engine-Algorithm-and-Sample
+       fixed empty cell to be ' ', not '-'
+
 [Joro] Added 1209-Engine-Algorithm-and-Sample.zip
        Changed visualization of battleship:
                ► is now r
