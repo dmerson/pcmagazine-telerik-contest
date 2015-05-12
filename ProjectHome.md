@@ -1,0 +1,1 @@
+Repository for the PC Magazine & Telerik programming contest. See http://konkurs.devbg.org
